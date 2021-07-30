@@ -39,7 +39,7 @@ Você pode visualizar o layout do projeto [CLICANDO AQUI](https://www.figma.com/
 
 ## :pencil: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Alexvml777/RocketQ-nlw/blob/main/LICENSE) para mais detalhes.
 
 ---
 
